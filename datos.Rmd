@@ -1,0 +1,60 @@
+---
+title: ""
+output: html_document
+---
+<style>
+body {background-color: powderblue;}
+h1   {color: grey;}
+p    {color: black;}
+</style>
+
+### <font face="Arial Black"> Data</font>
+
+One of the main contributions of the BMBF project is based on the delivery of data for the national and regional policies linked to the mining sector. The team of researchers has compiled more than 300 macro/microeconomic variables related to the national accounts, activity variables, demographic variables, labor variables, input-output matrices, among others.
+ 
+
+In the following links you cand find the following databases avaible for download
+
+<html>
+<body>
+
+<font face="Arial Black"> Labor market variables: </font> 
+
+- 
+
+<font face="Arial Black"> Demographic variables: </font> 
+
+- <a href="poblacionCEPAL.xlsx">Cuentas </a> 
+
+<font face="Arial Black"> National Accounts </font>
+
+-
+
+<font face="Arial Black"> Input-Output matrices: </font>
+
+- <a href="MIPs73x73_1986.xlsx"> IOT 1986 </a> 
+
+- <a href="mip 1996.xls"> IOT 1996 </a> 
+
+- <a href="mip 2003.xlsx"> IOT 2003 </a> 
+
+- <a href="mip 2008.xlsx"> IOT 2008 </a> 
+
+- <a href="mip 2013.xlsx"> IOT 2013 </a> 
+
+<font face="Arial Black"> Regional Variables </font>
+
+- 
+- 
+- 
+-  
+
+
+<font face="Arial Black"> Summary statistics: </font>
+
+-
+
+ <a href="index_en.html"> Return to index </a>
+
+</body>
+</html>
