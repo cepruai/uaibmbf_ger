@@ -1,0 +1,35 @@
+---
+output: html_document
+---
+
+<style>
+body {background-color: powderblue;}
+h1   {color: grey;}
+p    {color: black;}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+</style>
+
+
+### <font face="Arial Black">  Preliminary Results </font>
+
+<html>
+<body style=”text-align: justify;”>
+
+<p style=”text-align: justify;”> 
+
+
+Through the development of a model that will allow analyzing the scope of internal and external price shocks on the mining sector, both nationally and spatially, this project seeks to generate relevant information for the discussion and preparation of public policies focused especially on evaluations impact of policies applied to the mining sector. </p>
+
+One of the main contributions that the project expects to deliver is the development of a new instrument, known as the REIM model (Regional Econometrics Input Output Models), which allows the development of impact evaluations of shocks in economic variables at both the national and regional levels. This will allow improving the information scopes of limited public policy makers for the spatial analysis with the REIMs.</p>   
+
+<p style=”text-align: justify;”>  </p>
+
+<font face="Arial Black">  The results will be published... </font>
+
+
+</body>
+</html>
