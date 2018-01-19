@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "179382597",
+    "hash" : "0",
     "id" : "2A75332C",
-    "lastKnownWriteTime" : 1516377284,
-    "last_content_update" : -2147483648,
+    "lastKnownWriteTime" : 1516377463,
+    "last_content_update" : 1516377463,
     "path" : "C:/Users/Felipe/Desktop/uaibmbf_ger/uaibmbf_ger/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
-        "cursorPosition" : "32,62",
-        "scrollLine" : "6"
+        "cursorPosition" : "32,18",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,
