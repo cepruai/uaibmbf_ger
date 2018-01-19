@@ -1,0 +1,57 @@
+---
+title: "Rocío Valdebenito"
+output: html_document
+---
+<html>
+<body>
+ 
+<img src="RocioValdebenito.jpg" width="300" height="350" align= top * left * bottom>
+
+<table border="2">
+
+<tr>
+<td> <font size="2" color="black"> Research: </font>
+ </td>
+
+<td> <font size="2" color="black"> Economic of Education, Microeconomics and Applied microeconomics. </font> </td>
+
+<tr>
+
+<td> <font size="2" color="black"> Education: </font>
+ </td>
+
+<td> <font size="2" color="black"> Ingeniero Comercial y Magister en Management Science, Universidad Adolfo Ibáñez 2014. </font>
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contact:</font> </td>
+
+<td> rocio.valdebenito@uai.cl </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black">   Web </font> </td> 
+<td>  </td>
+
+<tr>
+<td> 
+<font size="2" color="black"> Reseña: </font> </td>
+<td><font size="2" color="black"> 
+Rocío Valdebenito is Ingeniero Comercial y Master en Management Science at the Universidad Adolfo Ibáñez. Since August 2014 she is a associate research of CEPR, where he works on topics of professional technical education and the transition of these students to higher education.
+
+It also focuses its analysis on regional economy, mainly regional inequalities around quality of life and education. He has been a research assistant in the "Regional Competitiveness Index" by the Center for Public Systems of the University of Chile, and he did a research stay at the University of Illinois, Urbana-Champaign. His subjects of interest are the economics of education, applied microeconomics, regional economics and spatial econometrics. </font>
+</td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="equipo.html"> Team </a>
+</body>
+
+
+</html> 

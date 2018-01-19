@@ -1,0 +1,57 @@
+---
+title: "Frank Hohmann"
+output: html_document
+---
+<html>
+<body>
+ 
+<img src="hohmann.png" width="299" height="350" align= top * left * bottom>
+
+<table border="2">
+
+<tr>
+<td> <font size="2" color="black"> Research:</font>
+ </td>
+
+<td> <font size="2" color="black"> software development </font></td>
+
+<tr>
+
+<td> <font size="2" color="black"> Education:</font>
+ </td>
+
+<td> <font size="2" color="black"> Business administration with a focus on business informatics at the University of Osnabrück, Germany (Diploma in 1994)  </font>
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contact:</font> </td>
+
+<td> <font size="2" color="black"> hohmann at gws-os.com </font> </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black">  Web </font> </td> 
+<td> </td>
+
+<tr>
+<td> 
+<font size="2" color="black"> Reseña: </font> </td>
+<td><font size="2" color="black"> 
+Anke Mönnig is deputy head of the GWS division ‘Economic and Social Affairs’. Since July 2006, she is working for the GWS. Her thematic focus concentrates on industrial analysis, labor markets and structural change with an emphasis on external trade. She is responsible for the updating and development of the German model INFORGE and the world trade model TINFORGE. The forecast and simulation model INFORGE forms the basis for various model applications within the GWS. Since 2006, Anke Mönnig is part of the project team working on the quantitative and qualitative assessment of industries on behalf of the German Savings Bank Association and Publishing Company (DSGV/DSV). Since several years, she is an active member of the QuBe project (www.qube-projekt.de), in which together with the cooperation partners (BIBB, IAB) the modeling of the German labor market on the supply and the demand side is being promoted. She also works on international projects (Tunisia, Egypt, Israel) with focus on modelling routines in an input-output framework. Furthermore, she shows scientific presence in peer reviewed journals and other publications as well as on international conferences. 
+ </font>
+</td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="equipo.html"> Team </a>
+
+</body>
+
+
+</html>
