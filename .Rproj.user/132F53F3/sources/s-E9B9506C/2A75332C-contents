@@ -1,0 +1,33 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html  
+    - text: "Team"
+      icon: fa-info
+      href: equipo.html
+    - text: "COFORCE"
+      icon: fa-info
+      href: quienessomos_en.html
+    - text: "Data"
+      icon: fa-info
+      href: datos.html
+    - text: "Preliminary Results"
+      icon: fa-info
+      href: resultados_en.html
+    - text: "Research"
+      icon: fa-info
+      href: publicacion_en.html      
+    - text: "Language"
+      icon: fa-language
+      menu:
+      - text: "English"
+        href: https://cepruai.github.io/uaibmbf_en/index.html
+      - text: "Spanish"
+        href: https://cepruai.github.io/uaibmbf/index.html
+      - text: "German"
+        href: aleman.html
