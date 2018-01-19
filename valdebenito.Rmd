@@ -13,7 +13,7 @@ output: html_document
 <td> <font size="2" color="black"> Research: </font>
  </td>
 
-<td> <font size="2" color="black"> Economic of Education, Microeconomics and Applied microeconomics.   </font> </td>
+<td> <font size="2" color="black"> Economic of Education, Microeconomics and Applied microeconomics.     </font> </td>
 
 <tr>
 
