@@ -1,0 +1,58 @@
+---
+title: "Anett Groẞmann"
+output: html_document
+---
+<html>
+<body>
+ 
+<img src="anett.png" width="299" height="350" align= top * left * bottom>
+
+<table border="2">
+ 
+<tr>
+<td> <font size="2" color="black"> Research  :</font>
+ </td>
+
+<td> <font size="2" color="black"> Macroeconomics , Macro-econometric input-output models. </font></td>
+
+<tr>
+
+<td> <font size="2" color="black"> Education:</font>
+ </td>
+
+<td> <font size="2" color="black"> Dr. rer. pol., University Osnabrück, 2017. </font>
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contact:</font> </td>
+
+<td> <font size="2" color="black"> grossmann at gws-os.com </font> </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black">  Web: </font> </td> 
+<td>  http://www.gws-os.com/de/index.php/wirtschaft-soziales/team/details/member/18.html  </td>
+
+<tr>
+<td> 
+<font size="2" color="black"> About: </font> </td>
+<td><font size="2" color="black"> 
+Her main fields of interest are the development of computer based national and global forecasting and simulation models for e. g. Austria, Germany and Russia and the quantification of macroeconomic effects of policy measures. Most recently she was mainly involved in the impact analysis of economic and environmental policy measures and their representation in so-called E3 (economy, energy, environment) models. Currently, Mrs. Großmann is increasingly working on industry analysis and (socio-)economic modelling of e.g. demographic issues. Within the research project “Development of Sustainable Mining Strategies in Chile with a Regionalized National Model”, she is responsible for modelling the Chilean Regions.
+She conducts international model building workshops based on the model building framework "PortableDyme". At the "International Congress on Environmental Modelling and Software" (iEMSs 2016), her presentation "E3.pt – an E3 PortableDyme model for Portugal" about the development of the "e3.pt" model for Portugal with the "PortableDyme" model building framework was awarded the "Best Student Paper and Presentation" price.
+ </font>
+</td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="equipo.html"> Team </a>
+
+</body>
+
+
+</html>
