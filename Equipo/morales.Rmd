@@ -54,7 +54,7 @@ Felipe Morales is actually a research assistant of the Centro de Economía y Pol
 
 </table> 
 
-- <a href="equipo.html"> Team    </a>
+- <a href="http://ger.coforce.cl/equipo.html"> Team    </a>
 
 </body>
 
