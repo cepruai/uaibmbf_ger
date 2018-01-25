@@ -1,0 +1,62 @@
+---
+title: "Felipe Morales"
+output: html_document
+---
+<html>
+<body>
+
+<img src="FelipeMorales.jpg" width="298" height="349" align= top * left * bottom>
+
+<table border="2">
+
+<tr>
+<td> <font size="2" color="black"> Research :</font>
+ </td>
+
+<td>  <font size="2" color="black"> Industrial Organization and Input-Output Analysis </font> </td>
+
+<tr>
+
+<td> <font size="2" color="black"> Education:    
+</font>
+ </td>
+
+<td> <font size="2" color="black">
+ Magíster en Economía, Universidad Adolfo Ibáñez
+</font>
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contact:</font> </td>
+
+<td> f.morales@uai.cl </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black"> Sitio Web </font> </td> 
+<td> http://cepr.uai.cl/equipo/felipe-morales/  </td>
+
+<tr>
+<td> 
+<font size="2" color="black"> Reseña: </font> </td>
+<td><font size="2" color="black"> 
+
+Felipe Morales is actually a research assistant of the Centro de Economía y Política Regional (CEPR), he has worken in topics related to input-output analysis, in the CONICY-BMBF 150061 project. His research interests are Industrial organization, Macroeconomic theory and Economic of Education.
+ 
+</font>
+ </td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="equipo.html"> Team    </a>
+
+</body>
+
+
+</html> 

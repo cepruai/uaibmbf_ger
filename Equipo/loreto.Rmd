@@ -1,0 +1,55 @@
+---
+title: "Loreto Bieritz"
+output: html_document
+---
+<html>
+<body>
+ 
+<img src="loreto.jpg" width="299" height="350" align= top * left * bottom>
+
+<table border="2">
+
+<tr>
+<td> <font size="2" color="black"> Research: </font>
+ </td>
+<td> <font size="2" color="black"> Ciclos Económicos, Business Cycle, Economic Activities, Regional Issues   </font></td>
+
+<tr>
+
+<td> <font size="2" color="black"> Education:</font>
+ </td>
+
+<td> <font size="2" color="black"> Diploma in Regional Studies of Latin America from the University of Cologne, 2000 </font>
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contact:</font> </td>
+
+<td> <font size="2" color="black"> bieritz  at gws-os.com </font> </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black"> Web </font> </td> 
+<td> http://www.gws-os.com/de/index.php/the-gws/team/details/member/12.html </td>
+
+<tr>
+<td> 
+<font size="2" color="black"> About: </font> </td>
+<td><font size="2" color="black"> 
+Loreto Bieritz is a researcher at GWS in the division of Economic and Social Affairs since November 2008. Within the project of sector analysis and forecasting, she is in charge of the project management as well as of the analysis of the real estate sector, logistics and business services. Since October 2016, she participates in a joint research project on behalf of the German Federal Ministry of Education and Research concerning the “Development of Sustainable Mining Strategies in Chile with a Regionalized National Model“.</font>
+</td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="equipo.html"> Team </a>
+
+</body>
+
+
+</html>

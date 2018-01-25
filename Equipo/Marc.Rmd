@@ -1,0 +1,57 @@
+---
+title: "Marc Ingo Wolter"
+output: html_document
+---
+
+<html>
+<body>
+ 
+<img src="marc.png" width="299" height="350" align= top * left * bottom>
+
+<table border="2">
+
+<tr>
+<td> <font size="2" color="black"> Research:</font>
+ </td>
+
+<td> <font size="2" color="black"> Structural Change, Labour market, Demographic change, Input-output modelling, Regional economics    </font></td>
+
+<tr>
+
+<td> <font size="2" color="black"> Education:</font>
+ </td>
+
+<td> <font size="2" color="black"> Dr. Economics at the University of Osnabrück, 2001, Economics at the University of Osnabrück, 1996 </font>
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contact:</font> </td>
+
+<td> <font size="2" color="black"> wolter at gws-os.com </font> </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black"> Web </font> </td> 
+<td> http://www.gws-os.com/de/index.php/the-gws/team/details/member/31.html </td>
+
+<tr>
+<td> 
+<font size="2" color="black"> About: </font> </td>
+<td><font size="2" color="black"> 
+Marc Ingo Wolter is head of the GWS division ‘Economic and Social Affairs’. He is responsible for predominantly short and long-term projects for public as well as private clients. Marc Ingo Wolter has extensive experience in the development and appliance of macro-economic models as well as in establishing empirical evaluations. His research focus lies on socio-economic development on the background of economic and structural demographic change. He is responsible for the GWS’s industry forecasts. Besides, he is taking part in the socio-economic reporting (www.soeb.de) and is partner of the QuBe project (www.qube-projekt.de).</font>
+</td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="equipo.html"> Team </a>
+
+</body>
+
+
+</html>
