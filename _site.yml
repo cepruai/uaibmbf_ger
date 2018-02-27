@@ -4,30 +4,30 @@ navbar:
   title: 
   type: inverse
   left:
-    - text: "Home"
+    - text: "Zuhause"
       icon: fa-home
       href: index.html  
-    - text: "Team"
+    - text: "Mannschaft"
       icon: fa-info
       href: equipo.html
     - text: "COFORCE"
       icon: fa-info
       href: quienessomos_en.html
-    - text: "Data"
+    - text: "Daten"
       icon: fa-info
       href: datos.html
-    - text: "Preliminary Results"
+    - text: "Vorläufige Ergebnisse"
       icon: fa-info
       href: resultados_en.html
-    - text: "Research"
+    - text: "Forschung"
       icon: fa-info
       href: publicacion_en.html      
-    - text: "Language"
+    - text: "Sprache"
       icon: fa-language
       menu:
-      - text: "English"
+      - text: "Englisch"
         href: https://cepruai.github.io/uaibmbf_en/index.html
-      - text: "Spanish"
+      - text: "Spanisch"
         href: https://cepruai.github.io/uaibmbf/index.html
-      - text: "German"
+      - text: "Deutsche"
         href: https://cepruai.github.io/uaibmbf_ger/index.html  
