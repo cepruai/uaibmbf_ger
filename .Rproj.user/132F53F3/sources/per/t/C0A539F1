@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1516850871120.000,
+    "created" : 1516850900860.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "7D7A917F",
-    "lastKnownWriteTime" : 1519701697,
+    "hash" : "395992185",
+    "id" : "C0A539F1",
+    "lastKnownWriteTime" : 1519701866,
     "last_content_update" : -2147483648,
-    "path" : "C:/Users/Felipe/Desktop/uaibmbf_ger/uaibmbf_ger/Equipo/lopez.Rmd",
-    "project_path" : "Equipo/lopez.Rmd",
+    "path" : "C:/Users/Felipe/Desktop/uaibmbf_ger/uaibmbf_ger/Equipo/loreto.Rmd",
+    "project_path" : "Equipo/loreto.Rmd",
     "properties" : {
         "cursorPosition" : "23,7",
         "scrollLine" : "0"
     },
-    "relative_order" : 26,
+    "relative_order" : 27,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
