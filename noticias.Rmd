@@ -1,0 +1,35 @@
+---
+output: html_document
+---
+
+<style>
+body {background-color: powderblue;}
+h1   {color: grey;}
+p    {color: black;}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+</style>
+  
+           
+### <font face="Arial Black">  Der Kupferbergbau in Chile – Lenker der chilenischen Wirtschaft?  </font>
+
+<html>
+<body style=”text-align: justify;”>
+
+#### <font face="Arial Black"> Der Kupferbergbau in Chile – Lenker der chilenischen Wirtschaft? </font>
+
+# Erste Ergebnisse des Input-Output-basierten Modells COFORCE
+
+<p style=”text-align: justify;”> Im Rahmen des <a href="http://www.gws-os.com/de/index.php/die-gws/io-workshop/input-output-workshop-2018.html">I-O-Workshops vom 15. bis zum 16. März 2018</a> stellte Loreto Bieritz die ersten Ergebnisse des Projektes <a href="http://www.gws-os.com/de/index.php/die-gws/io-workshop/input-output-workshop-2018.html">"Entwicklung nachhaltiger Strategien im chilenischen Bergsektor mithilfe eines regionalisierten nationalen Modells (BMBF FKZ: 01DN16030)"</a> vor, das den Kupferbergbau in Chile in Hinblick auf seine Relevanz für die chilenische Wirtschaft untersucht. In ihrem Vortrag gab Frau Bieritz eine kurze Einführung in das Modell <a href="http://www.gws-os.com/de/index.php/wirtschaft-soziales/modelle/modelldetailseite/coforce.html">COFORCE</a> und veranschaulichte Produktion, Beschäftigung und Produktivität in den einzelnen Wirtschaftssektoren in ihrer derzeitigen und zukünftigen Entwicklung. Anhand einer detaillierten Analyse des chilenischen Bergbausektors ging sie darauf ein, dass der Kupferbergbau eine tragende Rolle einnimmt und welche Vor- und Nachteile sich daraus für die chilenische Wirtschaft ergeben.</p> 
+
+<p style=”text-align: justify;”>  Die Präsentation steht Ihnen    <a href="http://www.gws-os.com/downloads/Bieritz_I-O-Workshop2018.pdf"> hier </a> zum Download bereit. </p>
+
+
+- <a href="index.html"> Index </a>
+
+
+</body>
+</html>

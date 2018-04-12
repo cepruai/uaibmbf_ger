@@ -1,0 +1,35 @@
+---
+output: html_document
+---
+
+<style>
+body {background-color: powderblue;}
+h1   {color: grey;}
+p    {color: black;}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+</style>
+  
+           
+### <font face="Arial Black">  News  </font>
+
+<html>
+<body style=”text-align: justify;”>
+
+#### <font face="Arial Black">  Copper mining in Chile - driver of the Chilean economy? </font>
+
+# First results of the Input-Output-based model COFORCE
+
+<p style=”text-align: justify;”> During the <a href="http://www.gws-os.com/de/index.php/the-gws/io-workshop-overview/input-output-workshop-2018.html"> I-O-workshop from 15th to 16th March 2018</a> in Bremen, Loreto Bieritz presented the first results of the project <a href="http://www.gws-os.com/de/index.php/economic-and-social-affairs/projects/project-details/cu_cl.html"> Development of Sustainable Mining Strategies in Chile with a Regionalized National Model (BMBF FKZ: 01DN16030)</a>, which analyses copper mining in Chile in its relevance for the Chilean economy. In her presentation, Ms Bieritz gave a brief introduction to the <a ref="http://www.gws-os.com/de/index.php/economic-and-social-affairs/models/model-details/coforce.html">COFORCE</a> model and illustrated production, employment, value added and productivity in each economic sector in its present and future development. On the basis of a detailed analysis of the Chilean mining sector, she explained that copper mining plays a key role and what are the advantages and disadvantages for the Chilean economy.</p> 
+
+<p style=”text-align: justify;”>  The presentation can be downloaded   <a href="http://www.gws-os.com/downloads/Bieritz_I-O-Workshop2018.pdf"> here </a> </p>
+
+
+- <a href="index.html"> Come back to index </a>
+
+
+</body>
+</html>
