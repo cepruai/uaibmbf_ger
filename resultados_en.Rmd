@@ -21,7 +21,7 @@ p    {color: black;}
 
 <p style=”text-align: justify;”> 
 
-En construcción...
+Building...
 
 </font>
 
