@@ -14,7 +14,7 @@ p    {color: black;}
 
 
 #### <font face="Arial Black">  Centro de Economía y Política Regional: </font>
-
+                  
 - <a href="aroca.html"> Patricio Aroca </a>
 
     + Rol: Investigador Responsable
